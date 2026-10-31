@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Replace the domain below with your real domain before uploading
-Sitemap: https://www.example.com/sitemap.xml
